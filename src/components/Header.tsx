@@ -1,13 +1,15 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from 'next/navigation';
+import { usePathname } from "next/navigation";
 
 export default function Header() {
   const pathname = usePathname();
 
   const getLinkClass = (path: string) => {
-    return `font-medium ${pathname === path ? "text-[#286A48]" : "hover:text-[#286A48]"}`;
+    return `font-medium ${
+      pathname === path ? "text-[#286A48]" : "hover:text-[#286A48]"
+    }`;
   };
 
   return (
@@ -19,23 +21,17 @@ export default function Header() {
           </h1>
         </Link>
         <nav className="hidden md:flex space-x-8">
-          <Link 
-            href="/" 
-            className={getLinkClass("/")}
-          >
+          <Link href="/" className={getLinkClass("/")}>
             About
           </Link>
-          <Link 
-            href="/terms" 
-            className={getLinkClass("/terms")}
-          >
+          <Link href="/terms" className={getLinkClass("/terms")}>
             Terms
           </Link>
-          <Link 
-            href="/privacy" 
-            className={getLinkClass("/privacy")}
-          >
+          <Link href="/privacy" className={getLinkClass("/privacy")}>
             Privacy
+          </Link>
+          <Link href="/contact" className={getLinkClass("/contact")}>
+            Contact
           </Link>
         </nav>
         <div className="md:hidden">
