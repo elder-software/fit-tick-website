@@ -23,10 +23,10 @@ export default function PrivacyPolicy() {
               1. Introduction
             </h2>
             <p>
-              FitTick ("we", "our", or "us") is committed to protecting your
+              FitTick (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is committed to protecting your
               privacy. This Privacy Policy explains how we collect, use,
               disclose, and safeguard your information when you use our mobile
-              application FitTick (the "App"). Please read this Privacy Policy
+              application FitTick (the &quot;App&quot;). Please read this Privacy Policy
               carefully. By using the App, you consent to the practices
               described in this policy.
             </p>
@@ -87,7 +87,7 @@ export default function PrivacyPolicy() {
             </h2>
             <p>
               The App uses Google Firebase for various services. These services
-              process personal data according to Google's privacy policy.
+              process personal data according to Google&apos;s privacy policy.
             </p>
 
             <h3 className="text-xl font-semibold mt-6 mb-3 font-[family-name:var(--font-heading)]">
@@ -97,7 +97,7 @@ export default function PrivacyPolicy() {
               We use Firebase Authentication to manage user accounts securely.
               Firebase Authentication collects and processes certain
               authentication data, such as your email address. This information
-              is stored on Google's servers and is subject to Google's privacy
+              is stored on Google&apos;s servers and is subject to Google&apos;s privacy
               practices.
             </p>
 
@@ -107,11 +107,11 @@ export default function PrivacyPolicy() {
             <p>
               We use Firebase Firestore to store and sync user data, including
               workout information. All data stored in Firestore is subject to
-              Google's security measures and privacy policies.
+              Google&apos;s security measures and privacy policies.
             </p>
             <p>
-              For more information about Firebase's privacy practices, please
-              visit Google's Privacy Policy at{" "}
+              For more information about Firebase&apos;s privacy practices, please
+              visit Google&apos;s Privacy Policy at{" "}
               <a
                 href="https://policies.google.com/privacy"
                 className="text-[#286A48]"
@@ -168,11 +168,11 @@ export default function PrivacyPolicy() {
             </ul>
             <p>
               To exercise these rights, please contact us using the information
-              provided in the "Contact Us" section.
+              provided in the &quot;Contact Us&quot; section.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 font-[family-name:var(--font-heading)]">
-              8. Children's Privacy
+              8. Children&apos;s Privacy
             </h2>
             <p>
               The App is not intended for children under the age of 13. We do
@@ -188,7 +188,7 @@ export default function PrivacyPolicy() {
             <p>
               We may update our Privacy Policy from time to time. We will notify
               you of any changes by posting the new Privacy Policy on this page
-              and updating the "Last updated" date. You are advised to review
+              and updating the &quot;Last updated&quot; date. You are advised to review
               this Privacy Policy periodically for any changes.
             </p>
 

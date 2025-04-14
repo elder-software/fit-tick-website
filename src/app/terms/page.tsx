@@ -24,8 +24,8 @@ export default function TermsOfService() {
             </h2>
             <p>
               By downloading, installing, or using the FitTick application
-              ("App"), you agree to be bound by these Terms of Service
-              ("Terms"). If you do not agree to these Terms, do not use the App.
+              (&quot;App&quot;), you agree to be bound by these Terms of Service
+              (&quot;Terms&quot;). If you do not agree to these Terms, do not use the App.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 font-[family-name:var(--font-heading)]">
@@ -60,7 +60,7 @@ export default function TermsOfService() {
               The App uses Firebase Firestore to store and sync user data,
               including workout information, personal goals, and progress
               metrics. All data is stored in accordance with our Privacy Policy
-              and Firebase's security practices.
+              and Firebase&apos;s security practices.
             </p>
             <p>
               You retain ownership of any data you input into the App. By using
@@ -99,7 +99,7 @@ export default function TermsOfService() {
               7. Limitation of Liability
             </h2>
             <p>
-              The App is provided "as is" without warranties of any kind.
+              The App is provided &quot;as is&quot; without warranties of any kind.
               FitTick disclaims all warranties, express or implied, including
               but not limited to fitness for a particular purpose and
               non-infringement.
