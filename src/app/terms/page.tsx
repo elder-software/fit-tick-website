@@ -25,7 +25,8 @@ export default function TermsOfService() {
             <p>
               By downloading, installing, or using the FitTick application
               (&quot;App&quot;), you agree to be bound by these Terms of Service
-              (&quot;Terms&quot;). If you do not agree to these Terms, do not use the App.
+              (&quot;Terms&quot;). If you do not agree to these Terms, do not
+              use the App.
             </p>
 
             <h2 className="text-2xl font-bold mt-8 mb-4 font-[family-name:var(--font-heading)]">
@@ -99,9 +100,9 @@ export default function TermsOfService() {
               7. Limitation of Liability
             </h2>
             <p>
-              The App is provided &quot;as is&quot; without warranties of any kind.
-              FitTick disclaims all warranties, express or implied, including
-              but not limited to fitness for a particular purpose and
+              The App is provided &quot;as is&quot; without warranties of any
+              kind. FitTick disclaims all warranties, express or implied,
+              including but not limited to fitness for a particular purpose and
               non-infringement.
             </p>
             <p>
@@ -143,7 +144,7 @@ export default function TermsOfService() {
             </h2>
             <p>
               If you have any questions or concerns about these Terms, please
-              contact us at support@fittick.com.
+              contact us at info@elder-software.com.
             </p>
           </div>
         </div>
